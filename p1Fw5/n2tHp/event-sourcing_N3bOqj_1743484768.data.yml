@@ -4,5 +4,4 @@ service:
     - GO111MODULE=on go mod vendor
     - rm vendor/github.com/ThreeDotsLabs/watermill/ -rf
 
-run:
   concurrency: 8
