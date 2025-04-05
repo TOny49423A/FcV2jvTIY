@@ -5,7 +5,6 @@ import warnings
 warnings.filterwarnings("ignore")
 # nltk.download() # for downloading packages
 #import tensorflow as tf
-import numpy as np
 import random
 import string # to process standard python strings
 
