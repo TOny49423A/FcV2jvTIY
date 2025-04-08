@@ -5,7 +5,6 @@
 				"noAssignInExpressions": "off",
 				"noExplicitAny": "warn"
 			},
-			"style": {
 				"noNonNullAssertion": "off"
 			},
 			"a11y": {
