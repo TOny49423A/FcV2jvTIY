@@ -92,7 +92,6 @@
      <td style="text-align:center">Android</td>
      <td style="text-align:center"><a href="https://cloud.tencent.com/document/product/269/37059">TUIKit-Android快速集成</a></td>
   </tr>
-
   <tr>
      <td rowspan='2' style="text-align:center">修改界面主题</td>
      <td style="text-align:center">iOS</td>
